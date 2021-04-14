@@ -1,3 +1,4 @@
+//Create a sort for 2d matrices. Do a bubble sort, insertion sort, and selection sort variation of this. Do NOT convert the matrix into a 1D array to sort. You must sort it as a 2D structure.
 #include <iostream>
 using namespace std;
 #define M 4
