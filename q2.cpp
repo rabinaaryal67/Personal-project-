@@ -1,3 +1,4 @@
+//Test whether a recursive, iterative or linked-type binary search is faster by testing it on arrays of sizes 1 million and 10 million with arrays that are filled with random numbers. You will need to either fill it in a “sorted way” or sort it before doing the binary search.
 #include <iostream>
 #include <chrono>
 using namespace std;
