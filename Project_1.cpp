@@ -1,3 +1,7 @@
+//a.Read the input file from the beginning of the file to the end of file,  character by character using one character array for storing the characters with maximum array size of 32 (regardless of input file size).// b.Read the input file in reverse, that is, backwards from the end of the file, character by character.
+//using one character array for storing the characters with maximum array size of 32 (regardless of input file size), Comparing each character read from part (a) with that from part (b). If they are the same then print to the screen a zero, otherwise print 1. 
+
+
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>
