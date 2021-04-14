@@ -1,3 +1,7 @@
+//Create your own vector and linked list. They should each have all the necessary operations such as insertion, deletion, search, etc. You should create an iterator for them as well. Test the following to see which is faster:
+//a. Filling them with random numbers
+//b. Filling them with random strings (use ascii)
+//c. Doing the above with move semantics when filling with random strings
 #include <iostream>
 #include <string>
 
