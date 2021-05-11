@@ -1,0 +1,27 @@
+first File
+--------------------------------------------------------
+
+Minimum integer after 1000  integers =  0
+Minimum integer after 2000  integers =  0
+Minimum integer after 3000  integers =  0
+Minimum integer after 4000  integers =  0
+Minimum integer after 5000  integers =  0
+Minimum integer after 6000  integers =  0
+Minimum integer after 7000  integers =  0
+Minimum integer after 8000  integers =  0
+Minimum integer after 9000  integers =  0
+Minimum integer after 10 000 integers = 0
+
+second File
+-----------------------------------------------------
+
+Minimum integer after 1000  integers =  0
+Minimum integer after 2000  integers =  0
+Minimum integer after 3000  integers =  0
+Minimum integer after 4000  integers =  0
+Minimum integer after 5000  integers =  0
+Minimum integer after 6000  integers =  0
+Minimum integer after 7000  integers =  0
+Minimum integer after 8000  integers =  0
+Minimum integer after 9000  integers =  0
+Minimum integer after 10 000 integers = 0
